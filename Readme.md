@@ -25,8 +25,10 @@ An actor can be a person,department,system, or external entity to the organizati
 
 ## Effectiveness
 The effectiveness of the business modelling process is to firstly help calrify the steps needed in a particular process.
-we then need to understanding how the people,processes and technology within an organization interact
+we then need to understanding how the people,processes and technology within an organization interact to create the overall system and outcomes.
 
+## Understanding
+Business Process Modeling used in understanding the business operation, and hence is useful in analysis and design.
 
 
 ## Process Modelling Benefits
@@ -38,5 +40,8 @@ we then need to understanding how the people,processes and technology within an 
 3.Identify the complex business process.
 [able to break down the complex business processes,ability to analyse and identify process inneffeciencies]
 4.Help with training documentation.
-[the model becomes artifacts in understanding]
+[the model becomes artifacts in understanding, enabling the end user of what the old and new way looks like]
+
+Business Process Modeling leverages the effective use of visuals and modeling techniques in helping organisations and individual work bringin level of detail from large amount of information to perform the process activities.
+Leveraging these vital approaches in designing and delivering the organisation change.
 
